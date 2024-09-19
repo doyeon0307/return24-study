@@ -4,7 +4,7 @@
 0. 터미널에서 레포지토리를 저장할 경로로 이동합니다
 
 1. 해당 레포지토리를 clone합니다
-   <br> git clone 
+   <br> git clone https://github.com/doyeon0307/return24-study.git
 
 2. 자신의 이름으로 브랜치를 만듭니다
    <br>ex) doyeon
