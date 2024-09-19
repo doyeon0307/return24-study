@@ -7,7 +7,6 @@
    <br> git clone https://github.com/doyeon0307/return24-study.git
 
 2. 자신의 이름으로 브랜치를 만듭니다
-   <br>ex) doyeon
 
 3. 자신의 브랜치에서 과제를 수행하고 push합니다
 
