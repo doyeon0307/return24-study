@@ -22,7 +22,7 @@
    <br>예: `git branch doyeon`
    > 브랜치는 한 번만 만듭니다. 이미 자신의 브랜치가 있다면 이 단계는 하지 않습니다.
    
-   > 현재 경로가 레포지토리 디렉토리에 인지 확인하세요! clone 직후라면 `cd return24-study`로 디렉토리를 이동합니다.
+   > 현재 경로가 레포지토리 디렉토리인지 확인하세요! clone 직후라면 `cd return24-study`로 이동합니다.
    <br> ![image](https://github.com/user-attachments/assets/68fbc802-f198-41e3-9a5e-e468a48befbd)
 <br>
 
@@ -33,7 +33,7 @@
    <br>
    <br> add : `git add .` (띄어쓰기 후 온점)
    <br> commit : `git commit -m "4회차 과제"`
-   <br> push : `git push origin {브랜치명]` (예: `git push origin doyeon`)
+   <br> push : `git push origin {브랜치명}` (예: `git push origin doyeon`)
    <br> ![image](https://github.com/user-attachments/assets/0ee43a47-9807-46ea-bd0e-efd352069d16)
 <br>
 
@@ -44,6 +44,4 @@
    <br> ![image](https://github.com/user-attachments/assets/3967f1f4-1e69-419b-b0f8-9ad85eb15a30)
 <br>
 
-7. 4-5를 반복합니다
-
-### 🎈과제 제출 방법
+6. 4-5를 반복합니다
